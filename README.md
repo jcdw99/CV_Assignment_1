@@ -1,4 +1,4 @@
-# Computer Vision Assignment 1
+# Correction and Feature Detection
 
 You will notice that this project was entirely implemented in python. Mandatory packages include Numpy, Pillow, MatPlotLib, and OpenCV. If you need to install one of these packages, use pip. An example of numpy's installation is as follows:
 
